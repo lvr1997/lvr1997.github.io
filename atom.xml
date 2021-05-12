@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvr1997.github.io</id>
     <title>松鼠的日记本</title>
-    <updated>2021-05-12T03:21:25.468Z</updated>
+    <updated>2021-05-12T08:34:12.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lvr1997.github.io"/>
     <link rel="self" href="https://lvr1997.github.io/atom.xml"/>
@@ -23,17 +23,19 @@
 2019年8月，工作上的机会提升了我更多前端方面的技巧...</p>
 <!-- more -->
 <p>后来刚好有个机会，技术组长把我们新入职的都叫到一块，说：“我们这个组呢需要有一个前端的来支撑，你们看谁比较擅长这方面。”</p>
+<p>我心想这么好的机会，等他话音刚落，我就直接向他毛遂自荐。</p>
 <pre><code>—— 就这样，我慢慢地偏离了Java开发
 </code></pre>
-<p>我心想这么好的机会，等他话音刚落，我就直接向他毛遂自荐。</p>
 <p>因为自己的前端都是自学的，知识点也比较散。起初收到任务的时候，完成的也比较吃力，做出来的东西每次提交都会被挑出来问题。</p>
 <p>2019年9月17日，被项目组安排到长春项目组出差学习开发前端项目</p>
 <pre><code>—— 在长春出差的一个星期，也是有收获的，前端技术细节上都有所提升
 </code></pre>
-<p>我不服输。我跟技术组长说，以后前端方面的任务通通交给我。</p>
-<p>做了大半年的前端之后，现在水平也比较熟练了，项目上的前端部分任务我基本上都能完成。<br>
-但是距离专业的前端还是有一定的差距。</p>
+<p>我不服输。后来跟技术组长说，以后前端方面的任务通通交给我。</p>
+<p>做了大半年的前端之后，现在水平也比较熟练了，项目上涉及的前端部分我基本上都能完成。</p>
+<pre><code>—— 但是距离专业的前端还是有一定的差距。
+</code></pre>
 <p>然而入职满一年了之后，技术组长找到我说：在我们这个团队你以后要是走前端的话肯定是没什么发展的问我要不要考虑接手后端开发。</p>
+<figure data-type="image" tabindex="1"><img src="https://lvr1997.github.io/post-images/1620803583365.jpg" alt="" loading="lazy"></figure>
 <p>我心想：在你这个组里弄前端弄了一年了，现在不重视前端了？</p>
 <pre><code>—— 我该怎么办？
 </code></pre>
@@ -48,7 +50,7 @@
         <id>https://lvr1997.github.io/wo-he-java-de-gu-shi/</id>
         <link href="https://lvr1997.github.io/wo-he-java-de-gu-shi/">
         </link>
-        <updated>2021-05-10T08:36:01.000Z</updated>
+        <updated>2021-05-09T08:36:01.000Z</updated>
         <summary type="html"><![CDATA[<p>我是一个学java的程序媛，这是我的故事...</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>我是一个学java的程序媛，这是我的故事...</p>
@@ -137,7 +139,7 @@
 公司环境不错，上市互联网公司</p>
 <pre><code>—— 可是入职后的一个星期，突然发现自己不适合公司的这种后端开发业务模式。
 </code></pre>
-<p>后续：<a href="post/wan-mei-kong-huan-xiang-xue-qian-duan">完美控？还想学前端</a></p>
+<p>后续：「来自一个java程序媛的内心独白」完美控？还想学前端</p>
 ]]></content>
     </entry>
 </feed>
