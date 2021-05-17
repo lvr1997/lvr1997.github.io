@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvr1997.github.io</id>
     <title>松鼠的日记本</title>
-    <updated>2021-05-12T08:34:12.527Z</updated>
+    <updated>2021-05-17T02:22:52.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lvr1997.github.io"/>
     <link rel="self" href="https://lvr1997.github.io/atom.xml"/>
@@ -10,6 +10,53 @@
     <logo>https://lvr1997.github.io/images/avatar.png</logo>
     <icon>https://lvr1997.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 松鼠的日记本</rights>
+    <entry>
+        <title type="html"><![CDATA[「来自一个java程序媛的内心独白」找回自己]]></title>
+        <id>https://lvr1997.github.io/GrWoHWJYC/</id>
+        <link href="https://lvr1997.github.io/GrWoHWJYC/">
+        </link>
+        <updated>2021-05-12T07:15:07.000Z</updated>
+        <summary type="html"><![CDATA[<p>不知不觉，入职了快两年了...<br>
+回想在公司这两年，在项目上我贡献的最多的应该就是前端部分了吧</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>不知不觉，入职了快两年了...<br>
+回想在公司这两年，在项目上我贡献的最多的应该就是前端部分了吧</p>
+<!-- more -->
+<blockquote>
+<p>😩不要盲目跟风，适合自己才是最好的</p>
+</blockquote>
+<h2 id="我想离职了">我想离职了</h2>
+<p>“说到离职可能都会觉得，一个刚毕业的大学生，她在经过结婚、生孩子，她的生活会受到翻天覆地的变化。 ”</p>
+<p>是的，这确实，我也想到过这一点。会不会是这种原因？</p>
+<pre><code>—— 但是我再仔细回想看，假如我没有结婚，没有生孩子，我还会不会继续选择这条路，答案是否定的。
+</code></pre>
+<p>我承认我对<code>Java</code>确实有兴趣，从<code>2018</code>年大二初识到至今。</p>
+<p>但当我发现我带着曾经对<code>Java</code>这份热爱来到职场时，它根本就经不起职场的摩擦。</p>
+<pre><code>—— 曾经的这份热爱，现在早已被消耗殆尽。
+</code></pre>
+<p>编码对我来说，已经不能再靠它吃饭了。 我想我也是时候该重新规划我的职业道路了。</p>
+<p>而对于离职后的方向和目标，然而现在还是一个未知数。</p>
+<h2 id="关于离职后的目标与规划">关于离职后的目标与规划</h2>
+<p>从事其他职业，还是想先问自己几个问题：</p>
+<h3 id="1️⃣我到底擅长什么">1️⃣我到底擅长什么？</h3>
+<pre><code>—— 准确的来说，我自己也不知道。
+</code></pre>
+<p><strong>但是我很清楚的一点就是：我还是喜欢动手实践类的东西，从小就是</strong></p>
+<p>这也是我最初为什么学java的原因。</p>
+<h3 id="2️⃣不想敲代码了还可以做哪些">2️⃣不想敲代码了，还可以做哪些？</h3>
+<pre><code>—— 我不想觉得我自己除了敲代码别的什么都不会
+</code></pre>
+<p>这一次，已经不是那个上学时候的我了。我要考虑的不仅是兴趣，还有我的未来发展、我的家庭</p>
+<pre><code>—— 我也想裸辞，救救我自己，救救我的生活
+</code></pre>
+<h3 id="3️⃣定位">3️⃣定位</h3>
+<p>隔了一周，我想清楚了...</p>
+<pre><code>—— 我想找回自己，找回我想要的生活
+</code></pre>
+<p>初步的计划：</p>
+<p>学习<code>PhotoShop</code>、<code>Illustrator</code>两款软件的使用。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「来自一个java程序媛的内心独白」完美控？还想学前端]]></title>
         <id>https://lvr1997.github.io/wan-mei-kong-huan-xiang-xue-qian-duan/</id>
