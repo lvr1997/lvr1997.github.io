@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvr1997.github.io</id>
     <title>松鼠的日记本</title>
-    <updated>2021-05-18T10:03:23.922Z</updated>
+    <updated>2021-05-20T02:28:22.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lvr1997.github.io"/>
     <link rel="self" href="https://lvr1997.github.io/atom.xml"/>
@@ -43,10 +43,12 @@
 <p>如果要搞人工智能、大数据等开发，一些高等数学、线性代数、概率等知识还是有很多用处的。当然，等你用到时再翻书也来得及。</p>
 <p><strong>06</strong> <strong>职业发展稳定</strong></p>
 <p>JAVA历经十多年，都是稳居第一位，可见的未来也是非常稳定的开发语言。JAVA行业的一大特点就是稳定，发展空间大。</p>
-<p>&gt; 作为JAVA程序员工资从：4000月薪，10万月薪都有。不像前几年火爆的IOS，火了3年，现在断崖式的下跌。JAVA就像一列火车，行驶非常稳定。</p>
+<blockquote>
+<p>作为JAVA程序员工资从：4000月薪，10万月薪都有。不像前几年火爆的IOS，火了3年，现在断崖式的下跌。JAVA就像一列火车，行驶非常稳定。</p>
+</blockquote>
 <pre><code>—— 看到这里，你应该知道自己适不适合编程了吧。闭上眼睛，放松精神，仔细想一想。
-
- 那么，我到底适不适合学编程呢？</code></pre>
+</code></pre>
+<p>那么，我到底适不适合继续学JAVA呢？</p>
 ]]></content>
     </entry>
     <entry>
