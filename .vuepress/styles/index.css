@@ -1,0 +1,16 @@
+/* @import ('@vuepress-theme-reco/tailwindcss-config/lib/client/tailwindcss-base.css'); */
+
+@import '@vuepress-reco/tailwindcss-config/lib/client/styles/tailwindcss-base.css';
+
+/* 首页社交按钮居中 */
+.personal-info-wrapper .social-links {
+    justify-content: center;
+}
+
+.cookhook {
+    @apply grid gap-4 grid-cols-3;
+}
+
+.navbar-container {
+    background-color: rgb(255 255 255 / 0.1);
+}

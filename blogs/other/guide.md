@@ -1,0 +1,60 @@
+---
+title: 做好菜，有好料
+sticky: 1
+categories:
+ - 前端
+tags:
+ - 实用工具
+---
+
+花了一天时间整理工作中常用的网站，价值满满
+
+<!-- more  -->
+
+## 菜园
+
+<div class="cookhook">
+    <ToolCard title="掘金" link="https://juejin.cn/" desc="开发者成长社区"/>
+    <ToolCard title="CSDN" link="https://www.csdn.net/" desc="找资料特别方便"/>
+    <ToolCard title="Echarts社区" link="https://www.makeapie.cn/echarts" desc="日常工作中几乎所有用到的图表都能在这里找到"/>
+</div>
+
+## 食谱
+
+<div class="cookhook">
+    <ToolCard title="Vue 3" link="https://staging-cn.vuejs.org" desc="Vue开发者官方文档"/>
+    <ToolCard title="Apache ECharts" link="https://echarts.apache.org/zh/index.html" desc="Echarts官方文档，查API"/>
+    <ToolCard title="AntDesign Vue" link=" https://www.antdv.com/" desc="强大的UI组件库"/>
+</div>
+
+## 厨具
+
+<div class="cookhook">
+    <ToolCard title="JSON" link="https://www.json.cn" desc="在线json解析工具"/>
+    <ToolCard title="跬步图床" link="https://yunjiemi.com/upload" desc="图床工具，保存文章图片链接"/>
+    <ToolCard title="Can I Use" link="https://caniuse.com" desc="查看某个js插件对浏览器兼容性"/>
+    <ToolCard title="Marked" link="https://marked.js.org/demo/" desc="在线markdown转html"/>
+    <ToolCard title="Road 2 Coding" link="https://www.r2coding.com/#/" desc="工具、知识、资源、应有尽有"/>
+</div>
+
+## 营养
+
+[一篇文章掌握Vue3组合式API](https://blog.csdn.net/weixin_53734436/article/details/117481977) <Badge text="推荐" />
+
+[webpack快速入门——配置文件：服务和热更新 - 盒子豪 - 博客园](https://www.cnblogs.com/hezihao/p/7929565.html) <Badge text="推荐" />
+
+[Vue的router路由跳转传参——实现跳转时url不显示参数 - 夕海_Yumi - 博客园](https://www.cnblogs.com/guanxiying/p/13179808.html) <Badge text="资料" />
+
+[Vue、Vuex+Cookie 实现自动登陆 。 - zwsu - 博客园](https://www.cnblogs.com/zhuwansu/p/9341494.html) <Badge text="资料" />
+
+[封装axios，一次封装终身受益](https://juejin.cn/post/7124573626161954823)<Badge text="资料" />
+
+[Vue使用input（type=file）上传文件_阿雷前进中...的博客-CSDN博客_vue使用input上传文件](https://blog.csdn.net/qq_41154522/article/details/113535493) <Badge text="资料" />
+
+## Happy!
+
+<div class="cookhook"> 
+    <ToolCard title="Emoji表情" link="https://emojixd.com" desc="如何在Markdown中使用Emoji"/>
+    <ToolCard title="Qwerty Learner" link="https://qwerty.liumingye.cn/" desc="业余爱好，既能打字又能学习的网站"/>
+    <ToolCard title="Typing Practice" link="https://www.keybr.com/" desc="干净整洁的打字网站"/>
+</div>

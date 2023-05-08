@@ -1,0 +1,4 @@
+.vuepress/.cache
+.vuepress/.temp
+node_modules
+deploy.sh
