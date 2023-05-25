@@ -1,0 +1,13 @@
+import{_ as r,p as t,q as i,s as e,R as n,t as s,Y as c,n as l}from"./framework-aa5c4115.js";const o={},d=c(`<h2 id="动态改变echarts柱状图颜色" tabindex="-1"><a class="header-anchor" href="#动态改变echarts柱状图颜色" aria-hidden="true">#</a> 动态改变echarts柱状图颜色</h2><p>需求：上面复选框选择的内容，下方柱图对应显示彩色，未选择的则置灰</p><div class="language-JavaScript line-numbers-mode" data-ext="JavaScript"><pre class="language-JavaScript"><code>color: function (params) {
+if (selectedSupplier.indexOf(params.seriesName) != -1) {
+     return colors[params.componentIndex];
+  } else if (
+    //selectedSupplier选中的名字数组 //gongyingshangData全部名字
+    selectedSupplier.length == gongyingshangData.length
+  ) {
+     return colors[params.componentIndex];
+   } else {
+    return &quot;#CCCCCC&quot;;
+  }
+ },
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2 id="echarts中setoption第二个参数的作用。处理减少series数组长度时-图表不发生变化的问题。" tabindex="-1"><a class="header-anchor" href="#echarts中setoption第二个参数的作用。处理减少series数组长度时-图表不发生变化的问题。" aria-hidden="true">#</a> echarts中setOption第二个参数的作用。处理减少series数组长度时，图表不发生变化的问题。</h2>`,4),h={href:"https://blog.csdn.net/weixin_46557501/article/details/117120733",target:"_blank",rel:"noopener noreferrer"},u=e("h2",{id:"封装通用弹窗组件-放大echarts图表",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#封装通用弹窗组件-放大echarts图表","aria-hidden":"true"},"#"),n(" 封装通用弹窗组件，放大echarts图表")],-1),p=e("p",null,[e("strong",null,"解决Vue3.0使用antd时，打开Modal框时无法获取里面的dom节点")],-1),v={href:"https://blog.csdn.net/CSND7997/article/details/11781624",target:"_blank",rel:"noopener noreferrer"},_=e("h2",{id:"柱状图数据太多时-如何动态给echarts容器指定高度",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#柱状图数据太多时-如何动态给echarts容器指定高度","aria-hidden":"true"},"#"),n(" 柱状图数据太多时，如何动态给echarts容器指定高度")],-1),m={href:"https://www.cnblogs.com/Fooo/p/16050886.html",target:"_blank",rel:"noopener noreferrer"};function g(b,f){const a=l("ExternalLinkIcon");return t(),i("div",null,[d,e("p",null,[e("a",h,[n("echarts中setOption第二个参数的作用。处理减少series数组长度时，图表不发生变化的问题。_下一次就是永远的博客-CSDN博客_setoption第二个参数"),s(a)])]),u,p,e("p",null,[e("a",v,[n("blog.csdn.net"),s(a)])]),_,e("p",null,[e("a",m,[n("echarts容器动态设置高度 - 且行且思 - 博客园"),s(a)])])])}const C=r(o,[["render",g],["__file","jiejueguanyuechartstudeBug.html.vue"]]);export{C as default};

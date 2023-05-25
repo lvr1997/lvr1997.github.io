@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as r,s as e,R as s}from"./framework-aa5c4115.js";const c={},o=e("h2",{id:"初识",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#初识","aria-hidden":"true"},"#"),s(" 初识")],-1),_=[o];function n(d,i){return a(),r("div",null,_)}const l=t(c,[["render",n],["__file","02-redux.html.vue"]]);export{l as default};
