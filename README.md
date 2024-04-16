@@ -12,6 +12,6 @@ bannerBrand:
     - { icon: 'LogoGithub', link: 'https://github.com/lvr1997' }
 footer:
   startYear: '2023'
-  record: '京ICP备2023018606号-1'
-  recordLink: 'beian.miit.gov.cn'
+  # record: '京ICP备2023018606号-1'
+  # recordLink: 'http://beian.miit.gov.cn'
 ---
