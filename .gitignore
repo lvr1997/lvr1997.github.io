@@ -1,0 +1,6 @@
+node_modules/
+docs/.vuepress/theme
+docs/.vuepress/plugins
+public
+.vuepress/.cache
+.vuepress/.temp

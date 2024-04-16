@@ -1,0 +1,20 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "R's blog",
+  "main": "index.js",
+  "repository": "http://lvr1997.github.io",
+  "author": "lvr",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev .",
+    "build": "vuepress build .",
+    "deploy": "bash scripts/deploy.sh",
+    "push": "bash scripts/push.sh"
+  },
+  "dependencies": {
+    "vuepress": "2.0.0-beta.66",
+    "vuepress-theme-reco": "2.0.0-beta.67"
+  }
+}
