@@ -1,1 +1,0 @@
-import{_ as e,p as t,q as n,w as c}from"./framework-aa5c4115.js";const o={};function r(_,a){return t(),n("div",null,[c(" <NewFont/> ")])}const l=e(o,[["render",r],["__file","index.html.vue"]]);export{l as default};
