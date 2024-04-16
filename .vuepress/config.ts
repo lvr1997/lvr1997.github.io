@@ -2,7 +2,7 @@ import { defineUserConfig } from "vuepress";
 import { recoTheme } from "vuepress-theme-reco";
 
 export default defineUserConfig({
-  title: "",
+  title: "R's Space",
   description: "A website for record life and work.",
   dest: "public",
   head: [
@@ -18,7 +18,7 @@ export default defineUserConfig({
   theme: recoTheme({
     style: "@vuepress-reco/style-default",
     // logo: "/head.png",
-    author: "lvr",
+    author: "LVR",
     authorAvatar: "/head.png",
     docsRepo: "https://github.com/lvr1997/lvr1997.github.io",
     docsBranch: "gh-pages-source",
