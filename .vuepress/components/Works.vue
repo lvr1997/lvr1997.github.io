@@ -15,18 +15,18 @@
 <script setup lang="ts">
 const data = [
   {
-    title: '🖊 Write',
-    desc: '记录你随心所想的站点',
+    title: '📕我的知识库',
+    desc: '持续学习，不断记录',
+    link: 'https://garden.rgbyove.top/'
+  },
+  {
+    title: '❤️生活日记',
+    desc: "保持一颗热爱生活的心",
     link: '#'
   },
   {
-    title: '📖 Work',
-    desc: "努力学习，认真工作",
-    link: '#'
-  },
-  {
-    title: '🎨 vuepress-theme-reco',
-    desc: 'A simple vuepress Blog & Doc theme.',
+    title: '🎨 vuepress',
+    desc: '本站点由vuepress-theme-reco驱动',
     link: 'https://vuepress-theme-reco.recoluan.com'
   },
   
