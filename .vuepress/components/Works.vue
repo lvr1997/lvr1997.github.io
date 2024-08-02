@@ -16,16 +16,16 @@
 const data = [
   {
     title: '📕我的知识库',
-    desc: '持续学习，不断记录',
+    desc: '持续输入...',
     link: 'https://garden.rgbyove.top/'
   },
   {
-    title: '❤️生活日记',
-    desc: "保持一颗热爱生活的心",
-    link: '#'
+    title: '❤️我的导航站',
+    desc: "实用小工具",
+    link: 'https://lovelinks.rgbyove.top/'
   },
   {
-    title: '🎨 vuepress',
+    title: '🎨 vuepress-theme-reco',
     desc: '本站点由vuepress-theme-reco驱动',
     link: 'https://vuepress-theme-reco.recoluan.com'
   },

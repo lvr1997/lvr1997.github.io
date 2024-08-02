@@ -1,3 +1,4 @@
+import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from "vuepress";
 import { recoTheme } from "vuepress-theme-reco";
 
@@ -19,7 +20,7 @@ export default defineUserConfig({
     style: "@vuepress-reco/style-default",
     // logo: "/head.png",
     colorMode: 'dark',
-    author: "Lav Riora",
+    author: "Lavrena",
     authorAvatar: "/head.png",
     docsRepo: "https://github.com/lvr1997/lvr1997.github.io",
     docsBranch: "gh-pages-source",
@@ -36,4 +37,8 @@ export default defineUserConfig({
     //   },
     // },
   }),
+  bundler: viteBundler({
+    viteOptions: {},
+    vuePluginOptions: {}
+  })
 });
