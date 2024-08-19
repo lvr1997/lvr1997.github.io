@@ -18,7 +18,7 @@ export default defineUserConfig({
   ],
   theme: recoTheme({
     logo: "/logo.png",
-    colorMode: 'auto',
+    colorMode: 'light',
     author: "Lavrena",
     authorAvatar: "/head.png",
     docsRepo: "https://github.com/lvr1997/lvr1997.github.io",

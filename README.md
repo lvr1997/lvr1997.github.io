@@ -8,7 +8,7 @@ bannerBrand:
   title: Lavrena's Blog
   description: A Web Developer
   tagline: 菜鸟程序媛成长记...
-  # bgImage: /bloom-flower-pear.jpg
+  # bgImage: /logo.png
   socialLinks:
     - { icon: 'LogoGithub', link: 'https://github.com/lvr1997' }
 footer:
