@@ -5,9 +5,9 @@ modules:
   - Comment
   - Footer
 bannerBrand:
-  title: Lavrena's Blog
-  description: A Web Developer
-  tagline: 菜鸟程序媛成长记...
+  title:『I have』项目技术文档
+  description: A Web develop document.
+  tagline: 持续更新中...
   # bgImage: /logo.png
   socialLinks:
     - { icon: 'LogoGithub', link: 'https://github.com/lvr1997' }
