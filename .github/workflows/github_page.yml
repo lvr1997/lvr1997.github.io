@@ -22,9 +22,7 @@ jobs:
         run: npm run build
 
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2
+        uses: JamesIves/github-pages-deploy-action@v4.5.0
         with:
           target_branch: master
           build_dir: public
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAGE_TOKEN }}
